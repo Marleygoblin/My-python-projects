@@ -17,4 +17,6 @@ while M == True:
     if Z == '*':
         ß = x * y
         print(ß)
+    else:
+        print('Bitte benutze eines der Symbole die angefragt wurden!')
 input('weiter rechnen...')
